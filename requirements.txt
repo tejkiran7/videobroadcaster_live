@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+fastapi-cli
+pyvirtualcam
+opencv-python
+ultralytics
